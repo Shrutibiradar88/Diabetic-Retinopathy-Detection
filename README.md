@@ -1,4 +1,5 @@
 # Diabetic-Retinopathy-Detection
+This project was implemented by Shivayogi Biradar and Shruti Biradar.
 
 Here is a short summary of the work done on this project.
 The first file EDA.ipynb is mean for exploratory analysis of this dataset. Here I have used two commoonly used techniues of PCA and 
